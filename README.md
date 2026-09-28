@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Mohammed Zaid
 
-<!--
-**muhdzaid785/muhdzaid785** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student  
+🤖 RPA & Automation Enthusiast  
+💻 Learning Python & Software Development  
+🚀 Building projects and improving my skills
 
-Here are some ideas to get you started:
+🛠️ Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 🤖 RPA & Automation
+- 🗄️ SQL / DBMS
+- 🌐 Git & GitHub
+
+🎯 Goals
+
+- 🚀 Build real-world projects
+- 💻 Improve my programming skills
+- 📚 Create a strong developer portfolio
+- 🔥 Keep learning and experimenting
+
+📌 About Me
+
+I'm a Diploma student interested in automation, programming, and technology.  
+Currently learning, building, and turning ideas into projects.
